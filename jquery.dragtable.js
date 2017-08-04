@@ -196,7 +196,7 @@
       var rowAttrsArr = [];
       //compute height, special handling for ie needed :-(
       var heightArr = [];
-      this.originalTable.el.find('tr:not(".details")').slice(0, this.options.maxMovingRows).each(function(i, v) {
+      this.originalTable.el.find('> tbody > tr:not(".details")').slice(0, this.options.maxMovingRows).each(function(i, v) {
         // row attributes
         var attrs = this.attributes;
         var attrsString = "";
