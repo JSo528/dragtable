@@ -1,0 +1,13 @@
+{
+  "name": "dragtable",
+  "version": "0.0.0",
+  "main": "jquery.dragtable.js",
+  "repository":{
+    "type" : "git",
+    "url" : "git@github.com:JSo528/dragtable.git"
+  },
+  "dependencies": {
+    "jquery": "*",
+    "jquery-ui": "1.11.*"
+  }
+}
