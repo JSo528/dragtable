@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "jquery": "*",
-    "jquery-ui": "1.11.*"
+    "jquery-ui": "1.12.*"
   },
   "description": "A draggable column table plugin for jquery.",
   "main": "jquery.dragtable.js",
